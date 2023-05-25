@@ -6,8 +6,9 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/guanaco-colab/blob/main/guanaco_7b_colab.ipynb) | Free T4 guanaco_7b_colab
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/guanaco-colab/blob/main/guanaco_13b_colab.ipynb) | Free T4 (4bit) guanaco_13b_colab -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/guanaco-colab/blob/main/guanaco_33b_colab.ipynb) | A100 guanaco_33b_colab
+
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/guanaco-colab/blob/main/guanaco_13b_colab.ipynb) | Free T4 (4bit) guanaco_13b_colab -->
 
 ## Main Repo
 https://github.com/artidoro/qlora
