@@ -3,7 +3,7 @@
 
 ### 🦒 Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/guanaco-colab/blob/main/guanaco_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/guanaco-colab/blob/main/guanaco_7b_colab.ipynb)
 
 ## Main Repo
 https://github.com/artidoro/qlora
